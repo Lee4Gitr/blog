@@ -311,10 +311,11 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         <aside className="read-next" css={outer}>
           <div css={inner}>
             <ReadNextFeed>
+              {console.log(props)}
               {props.data.relatedPosts && (
                 <ReadNextCard tags={post.frontmatter.tags} relatedPosts={props.data.relatedPosts} />
               )}
-
+              {console.log('this is the previous/next posts')}
               {props.pageContext.prev && <PostCard post={props.pageContext.prev} />}
               {props.pageContext.next && <PostCard post={props.pageContext.next} />}
             </ReadNextFeed>
