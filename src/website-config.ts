@@ -50,9 +50,9 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Aubrey Mills',
-  description: 'The blog of Aubrey Mills',
-  coverImage: 'img/leaves.jpg',
-  logo: 'img/ghost-logo.png',
+  description: 'A blog by Aubrey Mills',
+  coverImage: 'img/watercolor.png',
+  logo: 'img/simple-signature.png',
   lang: 'en',
   siteUrl: 'https://aubreymills.me/',
   facebook: 'https://www.facebook.com/ghost',
