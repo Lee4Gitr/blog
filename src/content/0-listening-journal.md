@@ -3,7 +3,7 @@ layout: post
 title: "Listening Journal"
 author: Aubrey
 tags: ["Music"]
-image: img/leaves.jpg
+image: img/triangle-macro.png
 date: "2020-04-26T01:30:08.153Z"
 draft: false
 ---
@@ -20,4 +20,4 @@ That said, I’m starting a listening journal series. I’ve found some old note
 * I will not do any analysis unless I think it makes the piece easier to appreciate.
 * I will be writing with an audience in mind, not just for myself.
 
- too much  So without further ado, I hope you listen and I hope you find something new you like! 
+ So without further ado, I hope you listen and I hope you find something new you like! 
