@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome"
 author: Aubrey
-tags: ["Getting Started"]
+tags: ["Info"]
 image: img/leaves.jpg
 date: "2020-04-25T19:22:17.562Z"
 draft: false
