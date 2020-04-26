@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Listening Journal"
+title: "Listening Journal - Introduction"
 author: Aubrey
-tags: ["Music"]
+tags: ["Music", "Listening Journal"]
 image: img/triangle-macro.png
 date: "2020-04-26T01:30:08.153Z"
 draft: false
