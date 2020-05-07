@@ -15,4 +15,4 @@ I found this recording in college, and talked to a long time friend and roommate
 *Haunted*.
 I still don’t think I can summarize it better than that, but as for listening notes:
 I mainly like the way Nina Simone plays with time in this piece. I like the amorphous and non-metered sound she uses when the lyrics are talking about love, and the way the music drags when she’s talking about having to leave.
-I also like the arrangement being as small as it is. If this was larger, I think it would loose much of the intimacy that makes it emotionally heavier.
+I also like the arrangement being as small as it is. If this was larger, I think it would lose much of the intimacy that makes it emotionally heavier.
